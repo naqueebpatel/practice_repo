@@ -5,4 +5,4 @@ if (number%2==0){
 }
 else{
     console.log("it is NOT AN EVEN NUMBER")
-}
+
