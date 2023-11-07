@@ -4,4 +4,5 @@ console.log(`Random value between 1 and 10 is ${a}`);
 
 export default function indexPage(){
     print("Hello");
+    print("Hi");
 }
