@@ -7,7 +7,8 @@ else{
     console.log("it is NOT AN EVEN NUMBER")
 
 
-    //component created
+    //faisalcode added
+
     //naqueeb is editing
 
 //react code here from faizan about navbar is here
