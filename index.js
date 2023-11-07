@@ -6,6 +6,7 @@ if (number%2==0){
 else{
     console.log("it is NOT AN EVEN NUMBER")
 
+    //faisalcode added
     //naqueeb is editing
 
 //react code here from faizan about navbar is here
