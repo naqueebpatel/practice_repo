@@ -2,8 +2,7 @@
 const a = Math.floor(Math.random() * (10 - 1)) + 1;
 console.log(`Random value between 1 and 10 is ${a}`);
 
-export default function indexPage(){
+export default function indexPage() {
     print("Hello");
     print("Hi");
-    print("How are you?");
-}
+
